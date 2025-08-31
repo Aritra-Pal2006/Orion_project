@@ -1,0 +1,17 @@
+
+h1{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#d1{
+    color:#d382de;
+}
+#d2{
+    color:rgb(162, 218, 49);
+}
+#d3{
+    color:white;
+}
+#fpimg{
+    background-image: url(assets/1st_page_img.png);
+}
